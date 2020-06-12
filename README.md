@@ -1,5 +1,5 @@
 # Jerk's Town
-Game made in 6 hours where you have to kill guys that are wearing a facemask in a wrong way.
+It's a parody game made in 6 hours where you have to kill guys that are wearing a facemask in a wrong way. It's just a parody and it is not trying to give any message whatsoever.
 
 Play [here](https://rhomita.itch.io/jerks-town)
 
